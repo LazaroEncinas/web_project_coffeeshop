@@ -73,6 +73,10 @@
   height: 16px;
 }
 
+.footer__social-link:hover {
+  color: #c1c1c1
+}
+
 .footer__copyright {
   margin-top: 108px;
   margin-bottom: 0;
