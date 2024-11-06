@@ -39,7 +39,7 @@
   left: -44px;
 }
 
-.footer__column-heading {
+.footer__social-heading {
   margin: 0 auto 20px;
   font-family: "Inter";
   font-style: normal;
@@ -63,7 +63,7 @@
   line-height: 20px;
 }
 
-.footer__column-link {
+.footer__social-link {
   color: #fff;
   text-decoration: none;
   display: flex;
